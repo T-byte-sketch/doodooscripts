@@ -1,0 +1,25 @@
+local nonce = game.Players.LocalPlayer
+local noncetoucher = nonce.Character
+
+local function ifuckinghatesofuckingfuckfuckfucksomuchfurryfuckinghatesomuchfuckingfurryiburnohfuckihatefurries()
+    local alaakbarrealpleasedontexposeme = noncetoucher:WaitForChild("Humanoid")
+    local coldfirescriptfr = noncetoucher:WaitForChild("Head")
+
+    local ogthing = coldfirescriptfr.Size
+    local gklrejrgeorgjioejiorerjioggoegjiorgjioeorgjiejioegriojergigjoeriogoejioegjoi = ogthing * 3
+    local timeuntilboomBOOM = 5
+
+    local teuirgergjoergjioergjioergjioergjioergejogerjiorjioegjioergjorgejo = TweenInfo.new(timeuntilboomBOOM, Enum.EasingStyle.Linear)
+    local haveyouguysheardthattherecentliltayhasdieditskindatragicngl = game:GetService("TweenService"):Create(coldfirescriptfr, teuirgergjoergjioergjioergjioergjioergejogerjiorjioegjioergjorgejo, {Size = gklrejrgeorgjioejiorerjioggoegjiorgjioeorgjiejioegriojergigjoeriogoejioegjoi})
+    haveyouguysheardthattherecentliltayhasdieditskindatragicngl:Play()
+    haveyouguysheardthattherecentliltayhasdieditskindatragicngl.Completed:Wait()
+
+    local xd = Instance.new("Explosion")
+    xd.Position = coldfirescriptfr.Position
+    xd.Parent = game.Workspace
+    xd.BlastRadius = 100
+    xd.BlastPressure = 100000
+    xd:Explode()
+end
+
+ifuckinghatesofuckingfuckfuckfucksomuchfurryfuckinghatesomuchfuckingfurryiburnohfuckihatefurries()
